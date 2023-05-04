@@ -1,0 +1,14 @@
+6b5665cbcdda250a0c9449f240fa2983 *DESCRIPTION
+5b1488cfd459022ed0af73a838ba2d94 *NAMESPACE
+26ea6d6c3849d35ea6f722f914d882f4 *R/HMTL.R
+82e17cfac482babef6a35e38a215e824 *R/Internal.R
+b36caafb8e222de0f460d2585bdd2f5c *data/datalist
+18e7a93b2cb748b214c8068137018d90 *data/mockdata1.rda
+d933beddcc1e263c76f26a5a1f4e6c55 *data/mockdata2.rda
+a8909712121b5331bbf893195f5ad8d6 *man/HMTL-package.Rd
+00de390c954f60e02ab1079e2f155159 *man/MTL_class.Rd
+b21fac3cacec0eb249060958da45600d *man/MTL_hetero.Rd
+3b41f2570a1b7a3342173a1349ae9a2a *man/MTL_reg.Rd
+8c344a2c779d181c0c8f4a52cecbedb3 *man/Selection_HMTL.Rd
+f7cf4568097767ed1157bfd181b6457f *man/mockdata.Rd
+a71169d4045e1320635a993ce7c53162 *man/plot_HMTL.Rd
